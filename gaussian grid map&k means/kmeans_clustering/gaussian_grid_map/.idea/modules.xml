@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/gaussian_grid_map.iml" filepath="$PROJECT_DIR$/.idea/gaussian_grid_map.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../kmeans_clustering/.idea/kmeans_clustering.iml" filepath="$PROJECT_DIR$/../kmeans_clustering/.idea/kmeans_clustering.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../map/.idea/map.iml" filepath="$PROJECT_DIR$/../../../map/.idea/map.iml" />
+    </modules>
+  </component>
+</project>
